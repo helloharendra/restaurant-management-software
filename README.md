@@ -12,6 +12,22 @@ Whether you operate a single restaurant or manage multiple outlets, we can devel
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Tables</b><br><br><img src="screenshots/2-tables.png" alt="Tables"></td>
+    <td align="center" width="50%"><b>Kitchen</b><br><br><img src="screenshots/3-kitchen.png" alt="Kitchen"></td>
+  </tr>
+</table>
+
+---
+
 ## Restaurant Management Software Development
 
 A restaurant management system helps restaurant owners manage front-of-house and back-of-house operations through a centralized platform.
@@ -325,17 +341,3 @@ The features described above are potential development capabilities, not a guara
 This repository is maintained by Naya Prayog Technologies for service presentation, portfolio, and business development purposes.
 
 Unless explicitly stated otherwise in a separate written agreement, the materials, branding, documentation, and proprietary content in this repository may not be copied, redistributed, or commercially reused without permission.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Tables</b><br><br><img src="screenshots/2-tables.png" alt="Tables"></td>
-    <td align="center" width="50%"><b>Kitchen</b><br><br><img src="screenshots/3-kitchen.png" alt="Kitchen"></td>
-  </tr>
-</table>
